@@ -1,0 +1,71 @@
+Draw Date,Marker Name,Marker Description,Value,Units,Reference Range,Source
+2016-12-02,Weight,Your weight,151.0,pounds,,
+2016-12-02,Body Mass Index,Measure of weight to height,25.9,Kg/m2,,
+2016-12-05,Total Cholesterol,A Type of Fat,218.0,mg/dL,125-200,Quest
+2016-12-05,HDL,"""Good"" Cholesterol",61.0,mg/dL,> OR = 40,Quest
+2016-12-05,Triglycerides,Type of Fat,63.0,mg/dL,<150,Quest
+2016-12-05,LDL,Less Healthy Low-Density Lipoprotein,144.0,mg/dL,<130,Quest
+2016-12-05,Total to HDL Ratio,Total Cholesterol to HDL Ratio,3.6,"",< OR = 5.0,Quest
+2016-12-05,Non-HDL Cholesterol (Calculated),All Less Healthy Cholesterol,157.0,mg/dL,,Quest
+2016-12-05,Iron (serum),Iron in liquid part of blood,172.0,μg/dL,50-195,Quest
+2016-12-05,Total Iron Binding Capacity,Estimates Transferrin level,371.0,μg/dL,250-425,Quest
+2016-12-05,Iron Saturation,The percent of Iron transport protein bound to Iron,46.0,%,15-60,Quest
+2016-12-05,Glucose,Blood Sugar,86.0,mg/dL,65-99,Quest
+2016-12-05,BUN,Blood Urea Nitrogen,13.0,mg/dL,7-25,Quest
+2016-12-05,Creatinine,Creatinine in your blood,0.93,mg/dL,0.60-1.35,Quest
+2016-12-05,eGFR,Marker for kidney function,111.0,mL/min/1.73m2,> OR = 60,Quest
+2016-12-05,eGFR (African American ethnicity),eGFR if African American,128.0,mL/min/1.73m2,> OR = 60,Quest
+2016-12-05,Sodium,An electrolyte outside cells,141.0,mmol/L,135-146,Quest
+2016-12-05,Potassium,An electrolyte inside cells ,4.2,mmol/L,3.5-5.3,Quest
+2016-12-05,Chloride,Balances other electrolytes,104.0,mmol/L,98-110,Quest
+2016-12-05,CO2,Carbon dioxide in blood,23.0,mmol/L,20-31,Quest
+2016-12-05,Calcium,Blood and Bone Mineral,10.4,mg/dL,8.6-10.3,Quest
+2016-12-05,Total Protein,Total protein amount (serum),7.9,g/dL,6.1-8.1,Quest
+2016-12-05,Albumin,Type of protein in blood,5.2,g/dL,3.6-5.1,Quest
+2016-12-05,Globulin,Immune protein,2.7,g/dL,1.9-3.7,Quest
+2016-12-05,A/G Ratio,"Proportion, albumin/globulin",1.9,"",1.0-2.5,Quest
+2016-12-05,Bilirubin (total),Made by the liver to help digest fat.,1.2,mg/dL,0.2-1.2,Quest
+2016-12-05,ALP,Alkaline Phosphatase,55.0,IU/L,40-115,Quest
+2016-12-05,AST / SGOT,Aspartate aminotransferase,16.0,IU/L,10-40,Quest
+2016-12-05,ALT / SGPT,Alanine aminotransferase,12.0,IU/L,9-46,Quest
+2016-12-05,Lp(a),Different Form of LDL,< 10.0,nmol/L,<75,Quest
+2016-12-05,Insulin-Like Growth Factor I,A Measure of Growth Hormone,190.0,ng/mL,63-373,Quest
+2016-12-05,Z score,IGF-1 compared to others,0.4,"",-2.0 - +2.0,Quest
+2016-12-05,White Blood Cell Count,Immune system cells,4.4,x10E3/μL,3.8-10.8,Quest
+2016-12-05,RBC,Red blood cell count,4.91,x10E6/μL,4.20-5.80,Quest
+2016-12-05,Hemoglobin,Protein in red blood cells,14.5,g/dL,13.2-17.1,Quest
+2016-12-05,Hematocrit,Fraction of red blood cells,44.9,%,38.5-50.0,Quest
+2016-12-05,MCV,Mean corpuscular volume,91.3,fL,80.0-100.0,Quest
+2016-12-05,MCH,Mean cell hemoglobin,29.5,pg,27.0-33.0,Quest
+2016-12-05,MCHC,RBC hemoglobin concentration,32.3,g/dL,32.0-36.0,Quest
+2016-12-05,RDW,Red cell distribution width,14.9,%,11.0-15.0,Quest
+2016-12-05,Platelet Count,Clot-forming cell fragments,181.0,x10E3/μL,140-400,Quest
+2016-12-05,Mean Platelet Volume (MPV),Average platelet size,11.3,fL,7.5-11.5,Quest
+2016-12-05,Neutrophil Count (ANC),Type of white blood cell,1.839,x10E3/μL,1500-7800,Quest
+2016-12-05,Lymphocyte Count (absolute),Calculation of WBC type,1.769,x10E3/μL,850-3900,Quest
+2016-12-05,Monocytes (absolute),type of white blood cell,0.207,x10E3/μL,200-950,Quest
+2016-12-05,Eosinophil (absolute),Calculation of WBC type,0.572,x10E3/μL,15-500,Quest
+2016-12-05,Basophil (absolute),Calculation of WBC type,0.013,x10E3/μL,0-200,Quest
+2016-12-05,% Neutrophil,Part of WBC differential,41.8,%,,Quest
+2016-12-05,% Lymphocytes,Part of WBC differential,40.2,%,,Quest
+2016-12-05,% Monocytes,Part of WBC differential,4.7,%,,Quest
+2016-12-05,% Eosinophils,Part of WBC differential,13.0,%,,Quest
+2016-12-05,% Basophils,Part of WBC differential,0.3,%,,Quest
+2016-12-05,hs-CRP,General Inflammation Marker,0.2,mg/L,,Quest
+2016-12-05,Cortisol,The body's main stress hormone,12.5,μg/dL,,Quest
+2016-12-05,DHEA-S,DHEA Sulfate (androgen),149.0,μg/dL,85-690,Quest
+2016-12-05,Ferritin,Iron storage protein,32.0,ng/mL,20-345,Quest
+2016-12-05,Folate,Folic Acid,12.4,ng/mL,,Quest
+2016-12-05,Insulin,Blood sugar storage hormone,5.5,mIU/L,2.0-19.6,Quest
+2016-12-05,TSH,Thyroid-Stimulating Hormone,1.26,mIU/L,0.40-4.50,Quest
+2016-12-05,Vitamin B12,Essential nutrient for cells,481.0,pg/mL,200-1100,Quest
+2016-12-05,Estradiol,Main female sex hormone,34.0,pg/mL,< OR = 39,Quest
+2016-12-05,SHBG,Sex Hormone Binding Globulin,45.0,nmol/L,10-50,Quest
+2016-12-05,25-Hydroxy Vitamin D,Precursor to vitamin D,61.0,ng/mL,30-100,Quest
+2016-12-05,Hemoglobin A1c (HbA1c),Average blood sugar level,5.2,%,<5.7,Quest
+2016-12-05,Apo B,"Protein in LDL (""Bad"") Cholesterol",92.0,mg/dL,,Quest
+2016-12-05,RBC Magnesium,The Magnesium in our cells,TNP,mg/dL,,Quest
+2016-12-05,Testosterone (total),Steroid hormone,727.0,ng/dL,250-1100,Quest
+2016-12-05,Free Testosterone,Active Unbound Tesoterone,110.2,pg/mL,35.0-155.0,Quest
+2017-02-16,SPECIMEN TYPE RECEIVED:,,SST,,,Quest
+2017-02-16,RBC Magnesium,The Magnesium in our cells,4.8,mg/dL,4.0-6.4,Quest
